@@ -1,10 +1,3 @@
-setuptools>=67.6.0
-pip>=24.0
-mysql-connector-python==8.0.31
-slack-sdk==3.19.2
-python-amazon-sp-api==0.17.5
-dacite==1.6.0
-numpy==1.24.0
 APScheduler==3.9.1
 attrs==23.2.0
 boto3==1.34.110
@@ -15,6 +8,7 @@ charset-normalizer==2.1.1
 colorama==0.4.6
 confuse==2.0.1
 coverage==7.5.1
+dacite==1.6.0
 et-xmlfile==1.1.0
 exceptiongroup==1.2.1
 freezegun==1.2.2
@@ -22,7 +16,9 @@ idna==3.7
 iniconfig==2.0.0
 jmespath==1.0.1
 mirakuru==2.5.2
+mysql-connector-python==8.0.31
 mysqlclient==2.2.4
+numpy==1.24.0
 openpyxl==3.1.0
 packaging==24.0
 pandas==1.5.3
@@ -35,6 +31,7 @@ pyairtable==1.4.0
 pytest==7.2.0
 pytest-cov==4.0.0
 pytest-mysql==2.3.1
+python-amazon-sp-api==0.17.5
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2022.7
