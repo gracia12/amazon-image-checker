@@ -1,0 +1,17 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+aws_image_env
+
+/credentials.json
+.idea/
+*.pytest_cache/

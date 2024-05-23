@@ -1,0 +1,11 @@
+mysql-connector-python==8.0.31
+slack-sdk==3.19.2
+python-amazon-sp-api==0.17.5
+dacite==1.6.0
+numpy==1.24.0
+apscheduler==3.9.1
+pyairtable==1.4.0
+requests==2.28.1
+pandas==1.5.3
+openpyxl==3.1.0
+psycopg2-binary==2.9.5
